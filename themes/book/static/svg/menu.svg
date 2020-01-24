@@ -1,5 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-	<text font-weight="bold" font-size="16" font-family="Ink free" x="0" y="12" fill="black">AJ</text>
+	<defs>
+		<style>
+			@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light');
+		</style>
+	</defs>
+	<text font-size="20" font-family='Shadows Into Light' x="0" y="22">AJ</text>
 </svg>
 
 
